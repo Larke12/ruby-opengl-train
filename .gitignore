@@ -1,0 +1,7 @@
+# ignore everything except ruby files
+
+/*
+!*.rb
+!Rakefile
+!*.rdoc
+!.gitignore

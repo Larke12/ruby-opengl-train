@@ -1,0 +1,19 @@
+= ruby-opengl-train
+An OpenGL conversion from C++ to Ruby.
+
+This is the final build of an assignment originally completed in C++. Original code is ommited to better prevent copying by future students. ;^)
+
+If you are interested in the original code, just let me know!
+
+= Running
+Download the files and be sure to have all of the gems required to run <tt>ruby-opengl</tt> on your system. Check the following for a rough idea of what you may need.
+
+* {OpenGL}[https://github.com/larskanis/opengl], {Glu}[https://github.com/larskanis/glu], and {Glut}[https://github.com/larskanis/glut] gems
+* The following dependencies are also required in C++ builds.
+
+=== Glut
+	<tt>$ sudo apt-get install freeglut3-dev</tt>
+=== SOIL
+	<tt>$ sudo apt-get install libsoil-dev</tt>
+=== GLEW
+	<tt>$ sudo apt-get install libglew-dev</tt>

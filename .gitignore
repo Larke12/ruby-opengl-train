@@ -1,6 +1,7 @@
 # ignore everything except ruby files
-
 /*
+plane.rb
+
 !*.rb
 !Rakefile
 !*.rdoc

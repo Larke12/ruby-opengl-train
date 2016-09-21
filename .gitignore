@@ -5,3 +5,4 @@
 !Rakefile
 !*.rdoc
 !.gitignore
+plane.rb
